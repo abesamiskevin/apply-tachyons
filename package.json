@@ -1,0 +1,11 @@
+{
+  "name": "apply-tachyons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abesamiskevin/apply-tachyons",
+  "author": "Kevin Abesamis <abesamiskevin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tachyons-js": "^0.2.0"
+  }
+}
